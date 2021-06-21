@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appt",
+      "day": "May5 at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "home chores",
+      "day": "May 5 at 2:30pm",
+      "reminder": true
+    },
+    {
+      "text": "ALALLALALALLALALA",
+      "day": "today  LOL",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "manure",
+      "day": "wed ",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "take stuff out of chitad",
+      "day": "midnight",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "take manure out of chitad",
+      "day": "tomorrow marnang",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
